@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Collegio Carlo Alberto PhD Replication Project",
+    "section": "",
+    "text": "The purpose of this project is to provide PhD students at Carlo Alberto with a self-service facility which mimicks a typical journal replication check process. The scheme runs annually and on a voluntary basis. If you want to sign up, please fill out this form and send me an email.\n© Florian Oswald, 2026"
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Collegio Carlo Alberto PhD Replication Project",
+    "section": "Purpose",
+    "text": "Purpose\nWe have the following ambition with this:\n\nProvide students with potentially useful feedback on their replication package - think of this like a free referee report.\nExpose student to how the replication checks process works - there are issues which one does not tend to think about.\nGet students started early with the entire process - it’s much easier to add to and modify an existing package than to scramble on the last day to put everything together (and find out nothing works).\nExchange with peers about best practices and “how to do x” in students’ work throughout the year."
+  },
+  {
+    "objectID": "index.html#details",
+    "href": "index.html#details",
+    "title": "Collegio Carlo Alberto PhD Replication Project",
+    "section": "Details",
+    "text": "Details\n\nEach participant has two roles: package author and replicator.\nBeing an “author” has the obvious purpose to simulate a student’s experience of submitting a paper to a journal; being a “replicator” has the purpose of exposing them to the less obvious problems which may arise during the process, and to create commensurate computational empathy.\n\n\nAuthors\nLet’s suppose your paper has just been conditionally accepted at the JPE (the process will be very similar at other journals). You are invited to submit your package within 30 days. You are directed towards the Data Editor’s website. Let’s look at it.\nSo, now we know what they expect, and what their template readme looks like.\n\n\n\n\n\n\nCautionBut!\n\n\n\nBut my paper is not finished yet! 😬\n\n\nGood point, but not a reason not to set up a replication package next to it. In fact, things like logging details about data sets is best done immediately, lest we forget.\n\n\n\n\n\n\nTipWhere Does My Package live?\n\n\n\nSubmit your package on the CCA zenodo repository for review.\n\n\n\nResources to get you started\n\nThe best practice section on the DE website.\nSlides for a 2h talk on reproducibility tips. The first part of this is info and explanations, the second part is a hands-on exercise that tries to build a package.\nThe accompanying git repo where you can follow along the creation of a package from folder structure to final product (each commit is a time step).\n\n\n\n\nReplicators\n\nI will assign packages to replicators.\nEach replicator uses the official JPE Replication Template\nYou need a github account, where you can save that template to.\nFollow instructions on the template readme for how to get started. You need to install specific (free) software.\nThis template contains a fairly strict checklist you have to work through.\nI can provide access to a cloud computing platform if you have issues that prevent working on your own computer.\n\nOnce you are done with filling out your report, you push it back to github, and create a new issue on your repo. You ping my github username @floswald and leave a message that you are done, what you have found in your report in a few words, and that’s it.\n\nReplicator Resources\n\nWhat is git ? Everyone should know. Start here.\nYou should read this training material on git for my replicators\nThere may be other helpful pieces on the replicator website."
+  },
+  {
+    "objectID": "index.html#timeline",
+    "href": "index.html#timeline",
+    "title": "Collegio Carlo Alberto PhD Replication Project",
+    "section": "2026 Timeline",
+    "text": "2026 Timeline\n\nEach package author submits their package by May 29th 2026 to the CCA zenodo repository\nEach replicator gets assigned one submitted package (not their own) to check and hands back report by June 12th 2026."
+  }
+]

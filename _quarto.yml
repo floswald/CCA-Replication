@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "CCA-Replication"
+  body-footer: © Florian Oswald, 2026
+  favicon: /images/cca.png
+  twitter-card: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    logo: /images/cca.png
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,82 @@
+---
+title: "Collegio Carlo Alberto PhD Replication Project"
+author:
+  - name: Florian Oswald
+    url: https://floswald.github.io
+    email: florian.oswald@unito.it
+    orcid: 0000-0001-7737-2038
+    affiliations:
+      - University of Turin
+      - Collegio Carlo Alberto
+      - JPE Data Editor
+---
+
+The purpose of this project is to provide PhD students at Carlo Alberto with a self-service facility which mimicks a typical journal replication check process. The scheme runs annually and on a **voluntary** basis. If you want to sign up, please fill out [this form](https://forms.gle/hM6J8XsxZQMvrvDC6) and send me an email. 
+
+## Purpose
+
+We have the following ambition with this:
+
+1. Provide students with potentially useful feedback on their replication package - think of this like a free referee report.
+2. Expose student to how the replication checks process works - there are issues which one does not tend to think about.
+3. Get students started early with the entire process - it's much easier to add to and modify an existing package than to scramble on the last day to put everything together (and find out nothing works).
+4. Exchange with peers about best practices and "how to do x" in students' work throughout the year.
+
+## Details
+
+* Each participant has two roles: _package author_ and _replicator_.
+* Being an "author" has the obvious purpose to simulate a student's experience of submitting a paper to a journal; being a "replicator" has the purpose of exposing them to the less obvious problems which may arise during the process, and to create commensurate _computational empathy_.
+
+### Authors
+
+Let's suppose your paper has just been conditionally accepted at the JPE (the process will be very similar at other journals). You are invited to submit your package within 30 days. You are directed towards the Data Editor's website. Let's [look at it](https://jpedataeditor.github.io/index.html).
+
+So, now we know what they expect, and what their template readme looks like. 
+
+::: {.callout-caution}
+
+# But!
+
+But my paper is not finished yet! 😬
+
+:::
+
+Good point, but not a reason not to set up a replication package next to it. In fact, things like logging details about data sets is best done immediately, lest we forget.
+
+::: {.callout-tip}
+
+# Where Does My Package live?
+
+Submit your package on the [CCA zenodo repository](https://zenodo.org/communities/cca-packages/) for review. 
+
+:::
+
+#### Resources to get you started
+
+1. The [best practice section](https://jpedataeditor.github.io/best.html) on the DE website.
+2. Slides for a 2h talk on [reproducibility tips](https://res-reproducibility.github.io/CCA-Torino-2025/#/title-slide). The first part of this is info and explanations, the second part is a hands-on exercise that tries to build a package.
+3. The accompanying [git repo](https://github.com/floswald/ReproWorkshop) where you can follow along the creation of a package from folder structure to final product (each commit is a time step).
+
+
+### Replicators
+
+* I will assign packages to replicators. 
+* Each replicator uses the official [JPE Replication Template](https://github.com/JPE-Reproducibility/JPEtemplate)
+* You need a github account, where you can save that template to.
+* Follow instructions on the template readme for how to get started. You need to install specific (free) software.
+* This template contains a fairly strict checklist you have to work through.
+* I can provide access to a cloud computing platform if you have issues that prevent working on your own computer.
+
+Once you are done with filling out your report, you push it back to github, and create a new issue on your repo. You ping my github username `@floswald` and leave a message that you are done, what you have found in your report in a few words, and that's it. 
+
+
+#### Replicator Resources
+
+* What is `git` ? Everyone should know. Start [here](https://github.com/dictcp/awesome-git?tab=readme-ov-file#tutorial).
+* You should [read this training material on git for my replicators](https://jpe-reproducibility.github.io/jpereplicators/training/git-slides.html#/title-slide)
+* There may be other helpful pieces on [the replicator website](https://jpe-reproducibility.github.io/jpereplicators/).
+
+## 2026 Timeline
+
+* Each package author submits their package by May 29th 2026 to the [CCA zenodo repository](https://zenodo.org/communities/cca-packages/)
+* Each replicator gets assigned one submitted package (not their own) to check and hands back report by June 12th 2026.

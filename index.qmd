@@ -22,6 +22,14 @@ We have the following ambition with this:
 3. Get students started early with the entire process - it's much easier to add to and modify an existing package than to scramble on the last day to put everything together (and find out nothing works).
 4. Exchange with peers about best practices and "how to do x" in students' work throughout the year.
 
+::: {.callout-note}
+
+# Privacy
+
+It will be student's decision whether to publish their work in progress package or not. By default, we will *not* publish the packages, even though I encourage everyone to weigh up the pros and cons of this decision for themselves.
+
+:::
+
 ## Details
 
 * Each participant has two roles: _package author_ and _replicator_.
